@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+@media screen and (max-width:600px){
+
+    .banner{
+        background:linear-gradient(#ab0d0d9f,rgba(214, 226, 43, 0.759),rgba(37, 161, 70, 0.856)), url(./images/you.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+        width: 100vw;
+    }
+  .banner-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+  }
+  .banner-text h1{
+    font-size: 44px;
+  }
+}
