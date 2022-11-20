@@ -7,7 +7,7 @@
 @media screen and (max-width:600px){
 
     .banner{
-        background:linear-gradient(#ab0d0d9f,rgba(214, 226, 43, 0.759),rgba(37, 161, 70, 0.856)), url(./images/you.jpg);
+        background:linear-gradient(#ab0d0d9f,rgba(214, 226, 43, 0.759),rgba(11, 54, 23, 0.856)), url(./images/you.jpg);
         background-size: cover;
         background-position: center;
         height: 100vh;
